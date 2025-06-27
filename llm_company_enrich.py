@@ -9,7 +9,6 @@ openrouter_api_key = ""
 
 # List of free models to try in order
 models_to_try = [
-    "google/gemini-2.0-flash-lite-001",
     "google/gemma-3n-e4b-it:free",
     "deepseek/deepseek-prover-v2:free",
     "sarvamai/sarvam-m:free",
